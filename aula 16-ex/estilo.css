@@ -1,0 +1,34 @@
+body {
+    background: rgb(226, 91, 1);
+    font: normal 15pt arial;
+}
+
+header {
+    color: rgb(8, 253, 41);
+    text-align: center;
+}
+
+section {
+    font-style: italic;
+    color: rgb(136, 1, 148);
+    background: rgb(79, 205, 255);
+    border-radius:20px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.623);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+ select#flist {
+     width: 150px;
+ }
+
+ #but{
+     color: aliceblue;
+     background-color: rgba(0, 0, 0, 0.459);
+ }
